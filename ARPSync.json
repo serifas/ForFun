@@ -1,0 +1,35 @@
+[
+    {
+    "Author": "serifas",
+    "Name": "ARPSync Testing",
+    "Punchline": "Share your real appearance with others",
+    "Description": "Share your real appearance with others.",
+    "InternalName": "ARPSync",
+    "AssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/serifas/ARPSyncTest",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "IsHide": "False",
+    "IsTestingExclusive": "True",
+    "DownloadCount": 0,
+    "LastUpdate": 1755942406,
+    "LoadPriority": 69420,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "DownloadLinkInstall": "https://github.com/serifas/ARPTesting/releases/download/dev/latest.zip",
+    "DownloadLinkTesting": "https://github.com/serifas/ARPTesting/releases/download/dev/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/serifas/ARPTesting/releases/download/dev/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/serifas/ARPTesting/refs/heads/main/images/icon.png",
+    "Tags": [
+        "Testing",
+        "ARP",
+        "Sync",
+        "Roleplay",
+        "RP",
+        "Absolute Roleplay",
+        "Profiles"
+    ]
+  }    
+]
