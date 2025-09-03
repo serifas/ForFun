@@ -1,20 +1,35 @@
-{
-  "Author": "lynie",
-  "Name": "ARPSync",
-  "InternalName": "FFSync",
-  "AssemblyVersion": "1.11.3.0",
-  "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Penumbra-Sync/client",
-  "Tags": [
-    "customization"
-  ],
-  "DalamudApiLevel": 13,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/Penumbra-Sync/client/main/MareSynchronos/images/logo.png",
-  "Punchline": "Let others see you as you should be seen.",
-  "AcceptsFeedback": true
-}
+[
+    {
+    "Author": "serifas",
+    "Name": "ARPSync Testing",
+    "Punchline": "Share your real appearance with others",
+    "Description": "Share your real appearance with others.",
+    "InternalName": "ARPSync",
+    "AssemblyVersion": "1.11.3",
+    "TestingAssemblyVersion": "1.11.3",
+    "RepoUrl": "https://github.com/serifas/ARPSyncTest",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "IsHide": "False",
+    "IsTestingExclusive": "True",
+    "DownloadCount": 0,
+    "LastUpdate": 1755942406,
+    "LoadPriority": 69420,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/serifas/ForFun/refs/heads/main/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/serifas/ForFun/refs/heads/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/serifas/ForFun/refs/heads/main/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/serifas/ForFun/refs/heads/main/images/icon.png",
+    "Tags": [
+        "Testing",
+        "ARP",
+        "Sync",
+        "Roleplay",
+        "RP",
+        "Absolute Roleplay",
+        "Profiles"
+    ]
+  }    
+]
