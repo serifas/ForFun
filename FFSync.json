@@ -1,13 +1,13 @@
 [
     {
     "Author": "serifas",
-    "Name": "ARPSync Testing",
+    "Name": "FFS",
     "Punchline": "Share your real appearance with others",
     "Description": "Share your real appearance with others.",
-    "InternalName": "ARPSync",
+    "InternalName": "FFSync",
     "AssemblyVersion": "1.11.3",
     "TestingAssemblyVersion": "1.11.3",
-    "RepoUrl": "https://github.com/serifas/ARPSyncTest",
+    "RepoUrl": "https://github.com/serifas/ForFun",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
