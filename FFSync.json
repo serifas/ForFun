@@ -1,18 +1,18 @@
 [
     {
     "Author": "serifas",
-    "Name": "FFS",
+    "Name": "Pact",
     "Punchline": "Share your real appearance with others",
     "Description": "Share your real appearance with others.",
-    "InternalName": "FFSync",
-    "AssemblyVersion": "1.11.3.1",
-    "TestingAssemblyVersion": "1.11.3.1",
-    "RepoUrl": "https://github.com/serifas/ForFun",
+    "InternalName": "PactSync",
+    "AssemblyVersion": "1.11.3.2",
+    "TestingAssemblyVersion": "1.11.3.2",
+    "RepoUrl": "https://github.com/serifas/FFS",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
-    "IsTestingExclusive": "True",
+    "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": 1755942406,
     "LoadPriority": 69420,
@@ -23,13 +23,8 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/serifas/ForFun/refs/heads/main/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/serifas/ForFun/refs/heads/main/images/icon.png",
     "Tags": [
-        "Testing",
-        "ARP",
-        "Sync",
-        "Roleplay",
-        "RP",
-        "Absolute Roleplay",
-        "Profiles"
+        "Pact",
+        "Sync"
     ]
   }    
 ]
